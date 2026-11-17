@@ -1,4 +1,3 @@
-# BITS Retail Performance & Profitability Analysis
 
 An end-to-end retail data analysis and visualization project using Python and Power BI. The project combines three annual transaction files with product and customer master data, validates and prepares the data, and presents the results in an interactive one-page dashboard.
 
@@ -125,12 +124,12 @@ Retail-Data-Visualizations-Project/
 |-- BITS_Retail_2025.xlsx              # Annual transaction data
 |-- BITS_Retail_2026.xlsx              # Annual transaction data
 |-- BITS_Retail_Master.xlsx            # Product and customer master sheets
-|-- BITS_Retail_Student_Guide.xlsx      # Dataset/business guide
-|-- Data Visualization (2).ipynb       # Python data preparation notebook
+|-- BITS_Retail_Guide.xlsx      # Dataset/business guide
+|-- Retail Data Prep.ipynb       # Python data preparation notebook
 |-- retail_sales_enriched.csv          # Prepared dataset for Power BI
-|-- Data Visualization.pbix            # Power BI dashboard
-|-- Graded Assignment (1).pdf          # Assignment brief
-|-- Data Visualization/                # Supporting screenshots and evidence
+|-- Retail Analytics Dashboard.pbix            # Power BI dashboard
+|-- Retail Analytics Report.docx         # Report brief
+|-- Retail Analytics Report.pdf         # Report brief
 |-- README.md
 ```
 
@@ -148,7 +147,7 @@ Retail-Data-Visualizations-Project/
 3. Open the notebook:
 
    ```bash
-   jupyter notebook "Data Visualization (2).ipynb"
+   jupyter notebook "Retail Data Prep.ipynb"
    ```
 
 4. Run the notebook cells in order. Keep the four Excel source workbooks in the repository root so the file paths in the notebook resolve correctly.
@@ -170,11 +169,10 @@ Retail-Data-Visualizations-Project/
 
 ## Project files
 
-- [Python notebook](Data%20Visualization%20%282%29.ipynb)
-- [Power BI dashboard](Data%20Visualization.pbix)
+- [Python notebook](Retail%20Data%20Prep%20%282%29.ipynb)
+- [Power BI dashboard](Retail%20Analytics%20Dashboard.pbix)
 - [Prepared dataset](retail_sales_enriched.csv)
 - [Assignment brief](Graded%20Assignment%20%281%29.pdf)
-- [Supporting screenshots](Data%20Visualization/)
 
 ## Author
 
